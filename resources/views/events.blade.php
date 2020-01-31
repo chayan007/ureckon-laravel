@@ -487,7 +487,7 @@
             <form action="/event" method="post">
               <div class="form-group" hidden>
                 <label for="exampleInputEmail1">Event name</label>
-                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="event">
               </div>
               <div class="form-group">
                 <label for="exampleInputEmail1">Your Username</label>

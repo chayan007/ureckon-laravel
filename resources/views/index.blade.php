@@ -38,7 +38,7 @@
             </div>
             <div class="vise_title animate" style="margin-top: 1em;"> Dream Reckon Conquer</div>
 
-            <a href="#" class="btn11 vise_title animate" data-toggle="modal" data-target="#exampleModal">
+            <a href="auth.blade.php" class="btn11 vise_title animate">
                 <span>Register</span>
                 <div class="transition"></div>
             </a>
